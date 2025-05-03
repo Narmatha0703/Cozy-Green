@@ -1,8 +1,8 @@
 # Cozy-Green
-CozyGreen is a clean, minimalist plant shopping web app built with pure HTML &amp; CSS for nature lovers and design enthusiasts. 🌿
+CozyGreen is a clean, minimalist plant shopping web app built with pure HTML &amp;  Tailwind CSS for nature lovers and design enthusiasts. 🌿
  🌿 CozyGreen
 
-CozyGreen is a sleek and minimal plant shopping web app made with pure HTML & CSS. It's green, it's clean, and it’s made for plant lovers who appreciate calm vibes and good design.
+CozyGreen is a sleek and minimal plant shopping web app made with pure HTML & Tailwind CSS. It's green, it's clean, and it’s made for plant lovers who appreciate calm vibes and good design.
 
  ✨ Highlights
 
